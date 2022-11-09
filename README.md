@@ -5,7 +5,7 @@ A simple app where I learned how to integrate Docker with.
 - Backend: Express.js
 - Frontend: React.js
 
-# How to run this app
+## How to run this app
 
 - I'll assume that you already have Docker installed on your machine and WSL 2 too if you're using Windows.
 
