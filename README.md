@@ -9,7 +9,7 @@ A simple app where I learned how to integrate Docker with.
 
 - I'll assume that you already have Docker installed on your machine and WSL 2 too if you're using Windows.
 
-### Open terminal in the root directory where the `docker-compose.yaml` is located and type:
+### Open terminal in the root directory of the project where the `docker-compose.yaml` is located and type:
 
 ```
 docker-compose up
